@@ -5,6 +5,7 @@
     "description": "Full-featured Fig-powered intellisense with focus for package.json & shell files support",
     "version": "0.0.0-dev",
     "license": "MIT",
+    "icon": "media/icon.png",
     "main": "./out/index.js",
     "browser": "./out/index.js",
     "categories": [
